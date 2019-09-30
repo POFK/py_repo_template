@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/gh/POFK/py_repo_template/branch/master/graph/badge.svg)](https://codecov.io/gh/POFK/py_repo_template)
+[![Build Status](https://travis-ci.com/POFK/py_repo_template.svg?branch=master)](https://travis-ci.com/POFK/py_repo_template)
+
 # py_repo_template
 
 Add a short description here!
