@@ -83,7 +83,7 @@ def setup(app):
         'enable_inline_math': True
     }, True)
     app.add_transform(AutoStructify)
-    
+
 # Additional parsers besides rst
 source_parsers = {
    '.md': 'recommonmark.parser.CommonMarkParser',
